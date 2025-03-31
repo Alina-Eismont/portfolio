@@ -1,0 +1,123 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+body {
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(../images/back.jpg);
+}
+nav {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  font-variant: small-caps;
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 20px 0px 0px 40px;
+  border-top: 4px double #30405B;
+  border-bottom: 4px double #30405B;
+}
+nav li {
+  display: inline;
+  padding-right: 26px;
+}
+nav ul {
+  list-style-type: none;
+}
+nav li a {
+  text-decoration: none;
+  color: #30405B;
+}
+nav li a:hover {
+  text-decoration: none;
+  color: #9EC0E5;
+}
+h2 {
+  font-family: "Marcellus", serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 30px;
+  color: #47661F;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+
+}
+aside {
+  background-color: #FDFDFD;
+  border-radius: 10px 50px;
+  border: 4px double #9EC0E5;
+  padding: 15px 15px 0px 15px;
+  margin: 50px 0px 50px 0px;
+}
+aside ul {
+  padding: 0px 0px 0px 10px;
+  list-style-type: circle;
+}
+aside li a {
+  text-decoration: none;
+  color: #30405B;
+}
+aside li a:hover {
+  text-decoration: none;
+  color: #9EC0E5;
+}
+aside h2 {
+  font-size: 20px;
+  text-align: center;
+}
+article {
+  margin-top: 50px;
+}
+footer {
+  background-color: #9EC0E5;
+  clear: both;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+footer p {
+  font-family: "Times New Roman", serif;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+}
+.logo {
+  font-family: "Lumanosimo";
+  font-weight: 700;
+  font-size: 35px;
+  color: #30405B;
+  text-decoration: none;
+  margin-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  float: left;   
+}
+.container {
+  font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+  font-style: normal;
+  line-height: 1.5;
+  color: #30405B;
+}
+.back {
+  background-color: #FDFDFD;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 0px;
+}
+.back p {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.day {
+  font-size: 20px;
+  color: #47661F;
+  line-height: 2;
+}

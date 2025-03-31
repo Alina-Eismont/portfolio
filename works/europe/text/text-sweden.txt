@@ -1,0 +1,65 @@
+
+<h1>Sweden</h1>
+<p>Sweden is a country rich in history and culture. Its mythology is fascinating, its cities are picturesque and its many forests and parks are fantastic and unspoiled. It is a pure, natural place&#8211;you can go to Stockholm, Sweden&#8217;s capital, and catch salmon in the middle of the city!</p>
+<p>Sweden&#8217;s greatest treasure for nature-lovers is its vast expanse of beautiful land. More than half of Sweden is covered by forests, and Sweden&#8217;s long shoreline is dotted with breathtaking archipelagos. Fishing and hunting are both very popular sports, and both are part of Swedish traditions. Swedish land operates under a rather unique rule &#8211; &#8220;The Right Of Public Access&#8221;&#8211;which allows anyone to use public land.</p>
+<p>Since Sweden was isolated from other European countries, its culture (and the culture of the countries around it) is much different from other European countries. Swedish art is influenced by folk art and handcrafts. Products such as furniture and woodcrafting show the same sort of clean design. Other arts such as theater and ballet are very popular in Sweden.</p>
+<h3>CITIES IN SWEDEN</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Stockholm.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Stockholm</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Gothenburg.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Gothenburg</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Uppsala.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Uppsala</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Visby.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Visby</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Lund.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Lund</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Helsingborg.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Helsingborg</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Ystad.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Ystad</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Karlskrona.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Karlskrona</h5>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DIG Site | Alina Eismont</title>
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<link href="custom.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/kce5wbd.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-sm fixed-top">
+  <div class="container-fluid"> <a class="navbar-brand" href="index.html"><img src="images/logo.png" width="150" height="75" alt="Alina Eismont Portfolio"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"> <a class="nav-link" href="index.html">Back to Portfolio</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<main>
+  <div class="container container-fluid">
+    <h1>UX Design Process</h1>
+    <p>Before developing the final website, I followed a structured UX process using <b>Figma</b> to create a one-page, seamless scrolling experience that ensures an intuitive user journey.</p>
+    <ul>
+      <li>
+        <p> <b>Research and Planning</b></p>
+        <p>- Developed a logical structure and intuitive navigation for a smooth user journey.</p>
+        <p>- Focused on visual storytelling with a strong emphasis on product imagery and customer engagement.</p>
+        <p>- Ensured easy accessibility of key content and interactions.</p>
+      </li>
+      <li>
+        <p> <b>Mood Board and Style Guide</b></p>
+        <p>- Designed a mood board to define the brand’s natural, earthy, and creative identity.</p>
+        <p>- Selected a color palette inspired by nature, with green, soft neutrals, and purple accents for a vibrant and fresh feel.</p>
+        <p>- Chose typography that reflects handcrafted aesthetics with a modern touch, aligning with the brand’s artisanal approach.</p>
+        <p>- Incorporated organic textures and natural elements into the visual style.</p>
+      </li>
+      <li>
+        <p> <b>Wireframing and Prototyping</b></p>
+        <p>- Designed a wireframe to ensure a clean and structured scrolling layout.</p>
+        <p>- Prioritized visual storytelling with large product images and interactive elements to enhance engagement.</p>
+        <p>- Ensured smooth social media integration, making it easy for users to explore and interact with DIG’s community.</p>
+      </li>
+    </ul>
+    <p><b>Below are key UX artifacts that showcase the design planning process:</b></p>
+    <div class="ux-row">
+      <div class="ux-item"> <img src="images/ux/dig-moodboard.jpg" alt="DIG Mood Board">
+        <p><b>Mood Board</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+      <div class="ux-item"> <img src="images/ux/dig-wareframe.jpg" alt="DIG Wireframe">
+        <p><b>Wireframe</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+    </div>
+    <h1>Design and Development</h1>
+    <ul>
+      <li>
+        <p>Developed a fully responsive, one-page layout optimized for seamless browsing.</p>
+      </li>
+      <li>
+        <p>Designed a visually rich showcase of pots and plants, making products the centerpiece of the user experience.</p>
+      </li>
+      <li>
+        <p>Optimized for fast loading times and accessibility, ensuring a smooth and engaging experience.</p>
+      </li>
+    </ul>
+  </div>
+  <div class="container-fluid iframe-container">
+    <iframe src="https://sessions-creative.com/alina-eismont/portfolio/works/dig/index.html" 
+            title="DIG Site" class="responsive-iframe"></iframe>
+  </div>
+  <section class="mockup-gallery">
+    <h2>Responsive Design Showcase</h2>
+    <div class="mockup-row">
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Desktop View">
+        <p>Desktop View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Tablet View">
+        <p>Tablet View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Mobile View">
+        <p>Mobile View</p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>© Copyright 2025, Alina Eismont Portfolio. All rights reserved. Website Design and Development by Alina Eismont.</p>
+</footer>
+<script>
+document.querySelectorAll('.ux-item img').forEach(img => {
+    img.addEventListener('click', function() {
+        let overlay = document.createElement('div');
+        overlay.classList.add('lightbox');
+        overlay.innerHTML = `<img src="${this.src}" alt="${this.alt}">`;
+        document.body.appendChild(overlay);
+        overlay.addEventListener('click', function() {
+            document.body.removeChild(overlay);
+        });
+    });
+});
+</script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>

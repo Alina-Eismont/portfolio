@@ -1,0 +1,65 @@
+
+<h1>France</h1>
+<p>Bonjour! France is one of the most cultured and elegant places in the world&#8211;a place where old-fashioned buildings exist peacefully with new structures.</p>
+<p>It&#8217;s a place for thinkers to discuss the finer points of life at little caf&eacute;s, and a place where the simple acts of cooking and eating have been made into art forms. Paris, the &#8220;City of Light,&#8221; has many elegant and world-famous attractions. </p>
+<p>You&#8217;ll be amazed by the beauty of Notre-Dame, the Arc d&#8217;Triomphe, and of course, the Eiffel Tower. Be sure, of course, to visit the world-famous Louvre, where artistic treasures--Mona Lisa and the Venus de Milo--are on exhibit. End the day with dinner at a classy restaurant and enjoy the best of French cuisine.</p>
+<p>While the city of Paris is a must-see, be sure not to miss the rest of France! The countryside and old-fashioned villages of France are quite charming. Larger cities such as Cannes and Lyon all have many fascinating sights and visits to them can be very rewarding. As for the countryside, where many French dream of living one day, it is simply gorgeous and enjoyable to travel through.</p>
+<h3>CITIES IN FRANCE</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Paris.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Paris</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Bordeaux.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Bordeaux</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Lyon.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Lyon</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Marseille.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Marseille</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Nice.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Nice</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Strasbourg.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Strasbourg</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Lille.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Lille</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Chamonix.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Chamonix</h5>
+      </div>
+    </div>
+  </div>
+</div>

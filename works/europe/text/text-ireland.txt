@@ -1,0 +1,64 @@
+
+<h1>Ireland</h1>
+<p>Ireland is a very popular vacation destination due to its natural beauty and fascinating culture. The rustic and friendly atmosphere, combined with many fascinating destinations such as castles and villages, make Ireland a wonderful place for travelers.</p>
+<p>Ireland has many interesting and historic locations for travelers to visit, such as the Blarney Castle and various ruined structures, charming seaside villages, and, of course, authentic Irish pubs. History buffs won&#8217;t want to miss Trinity College, Ireland&#8217;s oldest college, where the famous Book of Kells is on display. Literature fans may want to visit the very pubs where famous Irish writers such as Oscar Wilde and James Joyce spent their time. Music fans may be interested in the Irish Music Hall of Fame and other music-related attractions.</p>
+<p>The many churches in Ireland are awe-inspiring, while the many parks and natural spaces are simply beautiful. There are many art galleries as well as talented local artisans.</p>
+<h3>CITIES IN IRELAND</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Dublin.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Dublin</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Belfast.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Belfast</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Cork-City.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Cork City</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Galway-City.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Galway City</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Derry.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Derry</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Kilkenny.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Kilkenny</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Dingle-Town.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Dingle Town</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Limerick.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Limerick</h5>
+      </div>
+    </div>
+  </div>
+</div>

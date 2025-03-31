@@ -1,0 +1,68 @@
+
+<h1>Italy</h1>
+<p>If beautiful works of art and architecture interest you, Italy is one of the best destinations in the world. Full of culture, lush locations and rich in history, Italy has many treasures to be enjoyed by the American traveler.</p>
+<p>Enjoy the artifacts housed in the vast museums and the famous and impressive monuments. According to UNESCO (the cultural branch of the United Nations), Italy contains about two thirds of the world&#8217;s artistic heritage. Famous works by gifted Italian artists such as Michelangelo can be seen in the many Italian museums. </p>
+<p>And of course, where else but Italy can you find authentic and delicious Italian cuisine?</p>
+<p>Music is also a cherished form of art in Italy&#8211;throughout the year, there are concerts and festivals held everywhere. Many festivals are based on religious holidays or medieval events&#8211;at one point during the year, there is even a reconstruction of a 16th century soccer game!</p>
+<p>But the art and culture is not the only thing Italy is famous for &#8211; it is also a wonderful place to dine out and relax. The spas and hot springs of Italy are unparalleled. </p>
+<p>Since the Roman age, the waters of Italy have been used to cure all sorts of ailments and complaints, from metabolism disorders to rheumatism. Italian food, already so popular in America, is unparalleled in its home state&#8211;the fresh ingredients and the simple cooking techniques make Italian food more delicious in Italy than anywhere else in the world.</p>
+<h3>CITIES IN ITALY</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Rome.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Rome</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Venice.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Venice</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Milan.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Milan</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Florence.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Florence</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Naples.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Naples</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Palermo.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Palermo</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Turin.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Turin</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Siena.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Siena</h5>
+      </div>
+    </div>
+  </div>
+</div>
+

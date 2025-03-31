@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sapphira Spa Site | Alina Eismont</title>
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<link href="custom.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/kce5wbd.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-sm fixed-top">
+  <div class="container-fluid"> <a class="navbar-brand" href="index.html"><img src="images/logo.png" width="150" height="75" alt="Alina Eismont Portfolio"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"> <a class="nav-link" href="index.html">Back to Portfolio</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<main>
+	<div class="container container-fluid">
+    <h1>UX Design Process</h1>
+    <p>Before developing the final website for Sapphira Spa Salon, I followed a structured UX process using <b>Figma</b> to conduct research, establish the brand identity, and refine the user flow. The goal was to create an intuitive, luxurious, and visually soothing digital experience that reflects the spa’s elegance and high-end services.</p>
+    <ul>
+      <li>
+        <p> <b>Research and Planning</b></p>
+        <p>- Conducted market research on high-end spa websites to understand user expectations for luxury wellness brands.</p>
+        <p>- Designed a site map to ensure seamless navigation across various service categories, from treatments to online reservations and an integrated e-commerce store.</p>
+        <p>- Focused on usability and accessibility to provide a smooth browsing experience for all users.</p>
+      </li>
+      <li>
+        <p> <b>Mood Board and Style Guide</b></p>
+        <p>- Established a luxurious and tranquil brand identity with a gold and deep blue color palette - elegance and trust.</p>
+        <p>- Selected high-quality typography that blends sophistication with readability.</p>
+        <p>- Curated brand imagery emphasizing relaxation, self-care, and an exclusive spa experience.</p>
+      </li>
+      <li>
+        <p> <b>Wireframing and Prototyping</b></p>
+        <p>- Created wireframes for both desktop and mobile-first design, ensuring an intuitive user experience.</p>
+        <p>- Designed a structured layout that emphasizes the spa’s expertise and service highlights.</p>
+        <p>- Prioritized online reservations, making it easy for users to book appointments.</p>
+      </li>
+    </ul>
+    <p><b>Below are key UX artifacts that showcase the design planning process:</b></p>
+    <div class="ux-row">
+      <div class="ux-item"> <img src="images/ux/sapphira-sitemap.jpg" alt="Sapphira Site Map">
+        <p><b>Site Map</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+      <div class="ux-item"> <img src="images/ux/sapphira-moodboard.jpg" alt="Sapphira Mood Board">
+        <p><b>Mood Board</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+      <div class="ux-item"> <img src="images/ux/sapphira-wireframe.jpg" alt="Sapphira Wireframe">
+        <p><b>Wireframe</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+    </div>
+    <h1>Design and Development</h1>
+    <ul>
+      <li>
+        <p>Developed a fully responsive website optimized for both desktop and mobile devices.</p>
+      </li>
+      <li>
+        <p>Designed an interactive services menu, allowing users to explore treatments with ease.</p>
+      </li>
+      <li>
+        <p>Implemented a secure booking system with a streamlined appointment scheduling process.</p>
+      </li>
+    </ul>
+  </div>
+  <div class="container-fluid iframe-container">
+    <iframe src="https://sessions-creative.com/alina-eismont/portfolio/works/sapphira-spa/index.html" 
+            title="Sapphira Spa Site" class="responsive-iframe"></iframe>
+  </div>
+	<section class="mockup-gallery">
+    <h2>Responsive Design Showcase</h2>
+    <div class="mockup-row">
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Desktop View">
+        <p>Desktop View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Tablet View">
+        <p>Tablet View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Mobile View">
+        <p>Mobile View</p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>© Copyright 2025, Alina Eismont Portfolio. All rights reserved. Website Design and Development by Alina Eismont.</p>
+</footer>
+	<script>
+document.querySelectorAll('.ux-item img').forEach(img => {
+    img.addEventListener('click', function() {
+        let overlay = document.createElement('div');
+        overlay.classList.add('lightbox');
+        overlay.innerHTML = `<img src="${this.src}" alt="${this.alt}">`;
+        document.body.appendChild(overlay);
+        overlay.addEventListener('click', function() {
+            document.body.removeChild(overlay);
+        });
+    });
+});
+</script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>

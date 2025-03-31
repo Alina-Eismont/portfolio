@@ -1,0 +1,74 @@
+@charset "utf-8";
+body {
+  background-color: #eff6d7;
+  font-family: "boreal", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: #34495E;
+  text-align: justify;
+}
+nav {
+  background-color: #eff6d7 !Important;
+}
+.nav-link {
+  color: #12a8a9 !important;
+  font-family: "azote", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
+.nav-link:hover, .nav-link:focus {
+  color: #FF8A5C !important;
+}
+.navbar-nav .show > .nav-link, .navbar-nav .active > .nav-link, .nav-link.show, .nav-link.active {
+  color: #34495E !important;
+  text-decoration: overline;
+}
+h1, h2, h3, h4, strong, figcaption {
+  font-family: "azote", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #12a8a9;
+}
+h1 {
+  font-size: 70px;
+  margin-top: 0px;
+}
+h2 {
+  font-size: 50px;
+  margin-top: 40px;
+}
+header {
+  margin-bottom: 50px;
+}
+footer {
+  background-color: #FFD3B5;
+  color: #34495E;
+  margin-top: 40px;
+  border-top-style: double;
+  border-top-color: #FF8A5C;
+}
+footer a:link {
+  color: #12a8a9;
+}
+footer a:hover {
+  color: #FF8A5C;
+}
+footer p {
+  font-size: 12px !important;
+}
+.center {
+  text-align: center;
+}
+.card-img {
+  border-style: double;
+  border-color: #12a8a9;
+}
+h5.card-title {
+    font-family: montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    text-shadow: 0px 0px 3px #34495E;
+}

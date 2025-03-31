@@ -1,0 +1,66 @@
+
+<h1>Germany</h1>
+<p>Germany is a very good choice for the English-speaking traveler, since many Germans speak English and American influences such as fast food and casual clothing are widespread!</p>
+<p>Germany is a fascinating country steeped in history, where you can find authentic recreations of medieval times, wonderful museums, and traditional festivals such as the famous Oktoberfest. </p>
+<p>Germany is famous for its castles and palaces. At many of them, you will find medieval times painstakingly restored, with traditional dancing, entertainment, and even medieval food. Culture is found in the charming old cities of Germany as well. Enjoy many museums and beautifully designed churches, famous landmarks of classical cities&#8211;also, musical forms such as opera are very popular in Germany.</p>
+<p>German food is hearty and very traditional, and of course consumed with famous, authentic German beer. German beer, of course, is fascinating in its own right&#8211;there are even festivals devoted to it, ranging from the popular Oktoberfest to smaller, more intimate festivals in other towns. Festivals and other traditions are very popular&#8211;Germans celebrate more holidays than Americans, and there always seems to be something going on!</p>
+<h3>CITIES IN GERMANY</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Berlin.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Berlin</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Munich.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Munich</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Frankfurt.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Frankfurt</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Hamburg.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Hamburg</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Hanover.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Hanover</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Stuttgart.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Stuttgart</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Bremen.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Bremen City</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Dresden.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Dresden</h5>
+      </div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,20 @@
+
+/*Insert in Row 1, Left Column */
+
+<p>Call us at 800-555-5555.</p>
+<p>Our travel consultants are available to assist you:<br>
+  - Monday - Friday 6:00 a.m. - 6:00 p.m. MST<br>
+  - Saturday 7:00 a.m. - 3:30 p.m. MST<br>
+  - Sunday 7:00 a.m. - 3:30 p.m. MST</p>
+  
+/*Insert in Row 1, Middle Column */
+  
+<p>Feel free to e-mail us at <a href="mailto:info@discovereurope.com">info@discovereurope.com</a> if you need help planning your vacation, have a question about a current reservation or you just have some feedback or a suggestion you would like to share. We thank you in advance for your inquiry. Happy Travels!</p>
+
+/*Insert in Row 2, Left Column */
+
+<p>© Discover Europe 2018</p>
+
+/*Insert in Row 2, Middle Column */
+
+<p>Website by (your name)</p>

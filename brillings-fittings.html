@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brillings Fittings Site | Alina Eismont</title>
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<link href="custom.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/kce5wbd.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-sm fixed-top">
+  <div class="container-fluid"> <a class="navbar-brand" href="index.html"><img src="images/logo.png" width="150" height="75" alt="Alina Eismont Portfolio"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"> <a class="nav-link" href="index.html">Back to Portfolio</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<main>
+  <div class="container container-fluid">
+    <h1>UX Design Process</h1>
+    <p>Before designing the final website, I followed a structured UX process using <b>Figma</b> for research, planning, and layout development. This approach helped ensure a seamless user experience while maintaining a professional and industrial aesthetic.</p>
+    <ul>
+      <li>
+        <p> <b>Research and Planning</b></p>
+        <p>- Conducted market research on competitor websites to analyze best practices in industrial and manufacturing website design.</p>
+        <p>- Designed a site map to define the website’s navigation structure and ensure an intuitive user flow.</p>
+        <p>- Focused on accessibility and usability, considering the primary audience of engineers, manufacturers, and business clients.</p>
+      </li>
+      <li>
+        <p> <b>Mood Board and Style Guide</b></p>
+        <p>- Developed a moodboard to establish the visual direction of the site, ensuring consistency in branding.</p>
+        <p>- Selected a color palette that reflects the precision and professionalism of the industry.</p>
+        <p>- Chose typography that conveys a modern and technical feel while maintaining readability.</p>
+      </li>
+      <li>
+        <p> <b>Wireframing and Prototyping</b></p>
+        <p>- Created wireframes for desktop and mobile views, ensuring a clean, structured layout.</p>
+        <p>- Prioritized product information and company credibility, placing key details above the fold.</p>
+        <p>- Focused on a responsive and scalable design, ensuring usability across all devices.</p>
+      </li>
+    </ul>
+    <p><b>Below are key UX artifacts that showcase the design planning process:</b></p>
+    <div class="ux-row">
+      <div class="ux-item"> <img src="images/ux/brillings-fittings-sitemap.jpg" alt="Brillings Fitting Site Map">
+        <p><b>Site Map</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+      <div class="ux-item"> <img src="images/ux/brillings-fitting-moodboard.jpg" alt="Brillings Fitting Mood Board">
+        <p><b>Mood Board</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+      <div class="ux-item"> <img src="images/ux/brillings-fitting-wireframe.jpg" alt="Brillings Fitting Wireframe">
+        <p><b>Wireframe</b></p>
+        <p class="image-instruction">Click on the image to enlarge</p>
+      </div>
+    </div>
+    <h1>Design and Development</h1>
+    <ul>
+      <li>
+        <p>Developed a fully responsive multi-page website ensuring a seamless experience across desktop, tablet, and mobile devices.</p>
+      </li>
+      <li>
+        <p>Designed a clean and professional layout with an intuitive navigation system to enhance user experience.</p>
+      </li>
+      <li>
+        <p>Implemented a structured product catalog with well-organized sections for improved readability and navigation.</p>
+      </li>
+    </ul>
+  </div>
+  <div class="container-fluid iframe-container">
+    <iframe src="https://sessions-creative.com/alina-eismont/portfolio/works/brillings-fittings/index.html" 
+            title="Brillings Fittings Site" class="responsive-iframe"></iframe>
+  </div>
+  <section class="mockup-gallery">
+    <h2>Responsive Design Showcase</h2>
+    <div class="mockup-row">
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Desktop View">
+        <p>Desktop View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Tablet View">
+        <p>Tablet View</p>
+      </div>
+      <div class="mockup"> <img src="images/mockups/404.jpg" alt="Mobile View">
+        <p>Mobile View</p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>© Copyright 2025, Alina Eismont Portfolio. All rights reserved. Website Design and Development by Alina Eismont.</p>
+</footer>
+<script>
+document.querySelectorAll('.ux-item img').forEach(img => {
+    img.addEventListener('click', function() {
+        let overlay = document.createElement('div');
+        overlay.classList.add('lightbox');
+        overlay.innerHTML = `<img src="${this.src}" alt="${this.alt}">`;
+        document.body.appendChild(overlay);
+        overlay.addEventListener('click', function() {
+            document.body.removeChild(overlay);
+        });
+    });
+});
+</script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>

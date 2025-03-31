@@ -1,0 +1,210 @@
+@charset "utf-8";
+body {
+  background-color: #fffbf2;
+  background-image: url("gallery-images/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#left-bar {
+  width: 200px;
+  list-style: none outside none;
+  padding-top: 20px;
+  float: left;
+}
+#left-bar a {
+  display: block;
+  font-family: "bennet-display", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #006f78;
+  font-size: 20px;
+  font-variant: normal;
+  padding: 3px 0 3px 15px;
+  border-bottom: 1px dotted #006f78;
+  transition: all 0.2s linear;
+}
+#left-bar a:hover, #left-bar a.active {
+  padding-left: 20px;
+  border-bottom: 1px solid #65BC92;
+  color: #65BC92;
+}
+h1 {
+  font-family: "roca", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #fffbf2;
+  font-size: 65px;
+  font-variant: small-caps;
+}
+h2 {
+  font-family: "roca", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #4D4640;
+  font-size: 50px;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+ul {
+  font-family: "bennet-display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #2C2022;
+  font-size: 18px;
+  font-variant: normal;
+}
+p {
+  font-family: "montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #2C2022;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+}
+a:link, a:visited, a:active {
+  color: #006f78;
+  font-size: 20px;
+  transition: all 0.2s linear;
+}
+a:hover {
+  color: #65BC92;
+  text-shadow: 0px 0px 3px rgba(88, 121, 87, 0.50);
+  padding-left: 10px;
+}
+em {
+  font-family: "montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #fffbf2;
+  font-size: 12px;
+}
+footer {
+  background-color: #4D4640;
+  color: #fefaef;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.header {
+  background-color: #4D4640;
+  color: #fefaef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.container-fluid {
+  background-color: #fffbf2;
+  max-width: 960px;
+  padding: 0;
+  margin: 0 auto;
+}
+.main .img-fluid {
+  border: 1px solid #4D4640;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.menu ul a {
+  text-decoration: none;
+}
+.menu ul {
+  list-style-type: none;
+}
+.main {
+  padding-bottom: 20px;
+  margin-left: 220px;
+  margin-right: 50px;
+}
+.menubox {
+  border: 3px double #006f78;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .menubox {
+    margin-left: -200px;
+  }
+}
+.menubox h3 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  font-family: "bennet-display", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #ba4e2f;
+  font-size: 25px;
+}
+.menubox th {
+  font-family: "montserrat", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #2C2022;
+}
+.menubox td {
+  font-family: "montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #2C2022;
+  font-size: 18px;
+}
+.contact {
+  border-left: 3px double #006f78;
+  padding-left: 20px;
+}
+.contact h3 {
+  font-family: "bennet-display", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #006f78;
+  font-size: 20px;
+}
+.carousel .carousel-indicators button {
+  background-color: #006f78;
+}
+.card {
+  background-color: #fffbf2 !important;
+  border: 1px solid #4D4640;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px rgba(88, 121, 87, 0.50);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 5px 10px rgba(88, 121, 87, 0.50);
+}
+.card-img-top {
+  width: auto;
+  height: 150px;
+  margin: 10px;
+  display: block;
+  object-fit: contain;
+}
+.card-body {
+  padding: 15px;
+  text-align: center;
+}
+.card-text {
+  font-family: "montserrat", sans-serif;
+  font-size: 14px;
+  color: #2C2022;
+  margin-bottom: 10px;
+}
+h4 {
+  font-family: "bennet-display", sans-serif;
+  font-size: 16px;
+  color: #006f78 !Important;
+  margin-top: 10px;
+  font-weight: bold;
+}

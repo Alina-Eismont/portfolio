@@ -1,0 +1,64 @@
+	
+<h1>Scotland</h1>
+<p>Scotland, part of the United Kingdom and home to the fabled Loch Ness Monster, is often overshadowed by its neighbor England. However, it is a very exquisite and fascinating area that boasts its own cuisine, traditions and folklore. Its capital city, Edinburgh, is the second most popular tourist destination in Britain.</p>
+<p>The natural scenery of Scotland is breathtakingly beautiful. The atmosphere is rugged and wild, boasting beautiful cliffs and waterfalls as well as pristine lakes and hills. Scotland has a rich history, and everything is connected to it &#8211; battlefields and historical points of interest are very common.</p>
+<p>Scottish food as a whole is very hearty and traditional, and Scottish whisky is very popular. As for entertainment, traditional dancing is widespread. A Ceilidh (pronounced kay-lay) is an informal night of singing, dancing, eating and drinking. Festivals, and other events are also popular&#8211;Halloween originated in Scotland, for example.</p>
+<h3>CITIES IN SCOTLAND</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Edinburgh.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Edinburgh</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Glasgow.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Glasgow</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Aberdeen.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Aberdeen</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/St-Andrews.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">St Andrews</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Oban.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Oban</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Inverness.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Inverness</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Kirkwall.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Kirkwall</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Stirling.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Stirling</h5>
+      </div>
+    </div>
+  </div>
+</div>

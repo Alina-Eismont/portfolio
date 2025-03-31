@@ -1,0 +1,65 @@
+
+<h1>Spain</h1>
+<p>Looking for a fresh, exciting country to visit? Consider Spain, a country full of culture and history. Enjoy beautiful music and dancing at one of the festivals or carnivals, watch the art of bullfighting, or spend your time at one of the many fantastic beaches. Spain is one of the more exotic European countries in terms of culture and food.</p>
+<p>Spain boasts many cheerful and colorful festivals, great spectacles that differ from region to region. All Spanish cities such as Madrid and Barcelona have their own regional customs and traditions, as well as their own favorite foods. In Barcelona, for example, you can enjoy dishes such as La escudella i carn d'olla, a sort of stew made of vegetables, rice, noodles and potatoes, and the Postre del Musico, the &#8220;Musician&#8217;s Dessert.&#8221;</p>
+<p>The entertainment in Spain, however, is not limited to traditional activities such as flamenco dancing and bullfighting &#8211; there is a very active night life populated by young people and visitors from all over the world. Residents of Valencia call the time between Friday evening and Sunday morning &#8220;la movida&#8221; &#8211; the moving time &#8211; and spend it accordingly, hanging out at the hottest bars and restaurants, enjoying music and dance, constantly on the move.</p>
+<h3>CITIES IN SPAIN</h3>
+<div class="row">
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Barcelona.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Barcelona</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Madrid.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Madrid</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Valencia.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Valencia</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Seville.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Seville</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Granada.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Granada</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Bilbao.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Bilbao</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Malaga.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Málaga</h5>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card bg-dark text-white"> <img class="card-img img-fluid" src="images/Cordoba.jpg" width="640" height="405" alt="">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Córdoba</h5>
+      </div>
+    </div>
+  </div>
+</div>
+

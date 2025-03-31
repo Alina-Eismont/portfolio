@@ -1,0 +1,223 @@
+@charset "UTF-8";
+/*page sections*/
+header {
+  background-color: #89A85C;
+}
+#banner {
+    background-color: #F2DEE7;
+    background-image: url(images/grunge_wall.png);
+}
+#pots {
+  background-color: #9B85C1;
+}
+#instagram {
+    background-color: #F2DEE7;
+    background-image: url(images/grunge_wall.png);
+}
+#workshop {
+  background-color: #312246;
+}
+body {
+  font-family: "new-zen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #F9F9F9 !important;
+  font-size: 20px;
+}
+h1, h2, h3, h4, strong, figcaption {
+  font-family: "freude", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+footer {
+  background-color: #9B85C1;
+}
+/*header*/
+header .container {
+  padding: 10px 0 20px 0;
+  position: relative;
+}
+@media (min-width: 768px) {
+  ul#social {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 40px;
+    right: 0px;
+  }
+  #address {
+    font-size: 16px;
+    position: absolute;
+    bottom: 40px;
+    right: 0px;
+  }
+}
+@media (max-width: 767px) {
+  header #logo {
+    display: block;
+    margin: 0 auto;
+    padding-top: 0px;
+  }
+  ul#social {
+    display: flex;
+    justify-content: center;
+  }
+  header #address {
+    text-align: center;
+    line-height: 2;
+  }
+}
+.bi-arrow-left-circle {
+  color: #688145 !important;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+/*banner*/
+#banner .container {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+#banner h1 {
+  color: #312246 !important;
+  text-align: center;
+}
+#banner .img-fluid {
+  margin-top: 20px;
+}
+figure {
+  position: relative;
+}
+figcaption {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+}
+figcaption span {
+  font-family: "new-z en", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 24px;
+  line-height: 45px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+figcaption span.spacer {
+  padding: 0 2px;
+  background: none;
+}
+/*pots*/
+#pots {
+  position: relative;
+  padding-bottom: 80px;
+  padding-top: 20px;
+}
+#tagline {
+  position: absolute;
+  bottom: -25px;
+  right: 0px;
+  font-size: 100px;
+  font-weight: 600;
+  line-height: 1;
+  text-align: right;
+  color: #F9F9F9;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 30px;
+  padding-right: 0px;
+  padding-top: 20px;
+}
+h4 {
+    color: #312246 !important;
+}
+
+/*instagram*/
+#instagram h2 {
+  color: #312246 !important;
+  padding-top: 40px;
+}
+#instagram img {
+  border: 5px double #312246;
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #instagram1 {
+    position: relative;
+  }
+  #instagram2 {
+    position: relative;
+  }
+  #instagram3 {
+    position: relative;
+    left: 40px;
+  }
+  #instagram4 {
+    position: relative;
+    top: 40px;
+  }
+  #instagram5 {
+    position: relative;
+  }
+  #instagram6 {
+    position: relative;
+  }
+  #instagram7 {
+    position: relative;
+  }
+}
+@media (min-width: 992px) {
+  #instagram1 {
+    position: relative;
+  }
+  #instagram2 {
+    position: relative;
+  }
+  #instagram3 {
+    position: relative;
+  }
+  #instagram4 {
+    position: relative;
+  }
+  #instagram5 {
+    position: relative;
+  }
+  #instagram6 {
+    position: relative;
+  }
+  #instagram7 {
+    position: relative;
+  }
+}
+/*workshop*/
+#workshop .container {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+#workshop h2 {
+  padding-top: 0px;
+  text-align: left;
+  padding-bottom: 0px;
+}
+/*footer*/
+#asterisk {
+  position: absolute;
+  top: -65px;
+  left: 0px;
+  font-size: 170px;
+  line-height: 1;
+  color: #9B85C1;
+}
+footer .container {
+  padding-top: 60px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+a {
+  color: #F2DEE7;
+}
+a:hover {
+  color: #688145;
+}
