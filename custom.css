@@ -16,7 +16,10 @@ body {
 }
 nav {
   background-image: url(images/back.jpg);
-  opacity: 0.5;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.4);
+  background-blend-mode: lighten;
   border-bottom: 2px solid #D80909;
 }
 .navbar {
@@ -113,7 +116,10 @@ footer p {
   margin-left: auto;
   margin-bottom: 40px;
   background-image: url(images/back.jpg);
-  opacity: 0.5;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(255, 255, 255, 0.4);
+  background-blend-mode: lighten;
   border: 1px solid #8C8C8C;
   padding: 25px;
 }
