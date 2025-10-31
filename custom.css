@@ -15,11 +15,14 @@ body {
   font-size: 16px;
 }
 nav {
-  background-image: url(images/back.jpg);
-  background-size: cover;
-  background-position: center;
-  background-color: rgba(255, 255, 255, 0.4);
-  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.2); /* semi-transparent white */
+  backdrop-filter: blur(10px); /* apply blur to background */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  border-bottom: 2px solid #D80909;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* optional soft shadow */
+  position: sticky; /* or fixed */
+  top: 0;
+  z-index: 1000;
   border-bottom: 2px solid #D80909;
 }
 .navbar {
@@ -115,11 +118,14 @@ footer p {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 40px;
-  background-image: url(images/back.jpg);
-  background-size: cover;
-  background-position: center;
-  background-color: rgba(255, 255, 255, 0.4);
-  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.2); /* semi-transparent white */
+  backdrop-filter: blur(10px); /* apply blur to background */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  border-bottom: 2px solid #D80909;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* optional soft shadow */
+  position: sticky; /* or fixed */
+  top: 0;
+  z-index: 1000;
   border: 1px solid #8C8C8C;
   padding: 25px;
 }
